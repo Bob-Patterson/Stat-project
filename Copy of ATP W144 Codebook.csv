@@ -1,0 +1,794 @@
+﻿Variable,Variable_Label,Values,Value_Labels
+QKEY,Unique ID,100363,Min. Val.
+QKEY,,2.02301e+11,Max. Val
+INTERVIEW_START_W144,Interview start time,2024-03-18 16:42:42,Min. Val.
+INTERVIEW_START_W144,,2024-03-24 23:42:40,Max. Val
+INTERVIEW_END_W144,Interview end time,2024-03-18 16:47:09,Min. Val.
+INTERVIEW_END_W144,,2024-03-24 23:47:48,Max. Val
+DEVICE_TYPE_W144,The device used in the latest access of the survey link,1,Laptop/PC
+DEVICE_TYPE_W144,,2,Smartphone
+DEVICE_TYPE_W144,,3,Tablet
+DEVICE_TYPE_W144,,4,SmartTV
+DEVICE_TYPE_W144,,5,None of the above
+LANG_W144, Language of interview,1,English
+LANG_W144,,2,Spanish
+XRAND_FB_IG_W144,Flag to randomly assign panelists to answer module about either Facebook or Instagram if they use all four social media platforms.,1,Facebook
+XRAND_FB_IG_W144,,2,Instagram
+SMUSE_a_W144,Facebook // Please indicate whether or not you ever use the following websites or apps.,1,"Yes, use this"
+SMUSE_a_W144,,2,"No, don’t use this"
+SMUSE_a_W144,,99,Refused
+SMUSE_c_W144,X (formerly Twitter) // Please indicate whether or not you ever use the following websites or apps.,1,"Yes, use this"
+SMUSE_c_W144,,2,"No, don’t use this"
+SMUSE_c_W144,,99,Refused
+SMUSE_d_W144,Instagram // Please indicate whether or not you ever use the following websites or apps.,1,"Yes, use this"
+SMUSE_d_W144,,2,"No, don’t use this"
+SMUSE_d_W144,,99,Refused
+SMUSE_i_W144,TikTok // Please indicate whether or not you ever use the following websites or apps.,1,"Yes, use this"
+SMUSE_i_W144,,2,"No, don’t use this"
+SMUSE_i_W144,,99,Refused
+SMUSE2_a_W144,Facebook // About how often do you visit or use…,1,Almost constantly
+SMUSE2_a_W144,,2,Several times a day
+SMUSE2_a_W144,,3,About once a day
+SMUSE2_a_W144,,4,A few times a week
+SMUSE2_a_W144,,5,About once a week
+SMUSE2_a_W144,,6,Every few weeks or less often
+SMUSE2_a_W144,,99,Refused
+SMUSE2_c_W144,X (formerly Twitter) // About how often do you visit or use…,1,Almost constantly
+SMUSE2_c_W144,,2,Several times a day
+SMUSE2_c_W144,,3,About once a day
+SMUSE2_c_W144,,4,A few times a week
+SMUSE2_c_W144,,5,About once a week
+SMUSE2_c_W144,,6,Every few weeks or less often
+SMUSE2_c_W144,,99,Refused
+SMUSE2_d_W144,Instagram // About how often do you visit or use…,1,Almost constantly
+SMUSE2_d_W144,,2,Several times a day
+SMUSE2_d_W144,,3,About once a day
+SMUSE2_d_W144,,4,A few times a week
+SMUSE2_d_W144,,5,About once a week
+SMUSE2_d_W144,,6,Every few weeks or less often
+SMUSE2_d_W144,,99,Refused
+SMUSE2_i_W144,TikTok // About how often do you visit or use…,1,Almost constantly
+SMUSE2_i_W144,,2,Several times a day
+SMUSE2_i_W144,,3,About once a day
+SMUSE2_i_W144,,4,A few times a week
+SMUSE2_i_W144,,5,About once a week
+SMUSE2_i_W144,,6,Every few weeks or less often
+SMUSE2_i_W144,,99,Refused
+SOCIALNEWS2_a_W144,Facebook // Do you regularly get news or news headlines on any of the following social media sites or apps? By news we mean information about events and issues that involve more than just your friends or family.,1,"Yes, regularly get news on this"
+SOCIALNEWS2_a_W144,,2,"No, don’t regularly get news on this"
+SOCIALNEWS2_a_W144,,99,Refused
+SOCIALNEWS2_c_W144,X (formerly Twitter) // Do you regularly get news or news headlines on any of the following social media sites or apps? By news we mean information about events and issues that involve more than just your friends or family.,1,"Yes, regularly get news on this"
+SOCIALNEWS2_c_W144,,2,"No, don’t regularly get news on this"
+SOCIALNEWS2_c_W144,,99,Refused
+SOCIALNEWS2_d_W144,Instagram // Do you regularly get news or news headlines on any of the following social media sites or apps? By news we mean information about events and issues that involve more than just your friends or family.,1,"Yes, regularly get news on this"
+SOCIALNEWS2_d_W144,,2,"No, don’t regularly get news on this"
+SOCIALNEWS2_d_W144,,99,Refused
+SOCIALNEWS2_i_W144,TikTok // Do you regularly get news or news headlines on any of the following social media sites or apps? By news we mean information about events and issues that involve more than just your friends or family.,1,"Yes, regularly get news on this"
+SOCIALNEWS2_i_W144,,2,"No, don’t regularly get news on this"
+SOCIALNEWS2_i_W144,,99,Refused
+DOV_USE4_W144,Data only variable for using all four platforms,99,Refused
+DOV_ASKFB_W144,Data only variable for asking Facebook (FB) module,99,Refused
+DOV_ASKIG_W144,Data only variable for asking Instagram (IG) module,99,Refused
+FBWHY_a_W144,To get news // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_a_W144,,2,Minor reason
+FBWHY_a_W144,,3,Not a reason
+FBWHY_a_W144,,99,Refused
+FBWHY_b_W144,To keep up with politics or political issues // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_b_W144,,2,Minor reason
+FBWHY_b_W144,,3,Not a reason
+FBWHY_b_W144,,99,Refused
+FBWHY_c_W144,To keep up with sports or pop culture // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_c_W144,,2,Minor reason
+FBWHY_c_W144,,3,Not a reason
+FBWHY_c_W144,,99,Refused
+FBWHY_d_W144,Because it’s entertaining // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_d_W144,,2,Minor reason
+FBWHY_d_W144,,3,Not a reason
+FBWHY_d_W144,,99,Refused
+FBWHY_e_W144,To keep up with friends and family // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_e_W144,,2,Minor reason
+FBWHY_e_W144,,3,Not a reason
+FBWHY_e_W144,,99,Refused
+FBWHY_f_W144,To connect with others who share your interests // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_f_W144,,2,Minor reason
+FBWHY_f_W144,,3,Not a reason
+FBWHY_f_W144,,99,Refused
+FBWHY_g_W144,To look at product reviews or recommendations // How much is each of the following a reason you use Facebook?,1,Major reason
+FBWHY_g_W144,,2,Minor reason
+FBWHY_g_W144,,3,Not a reason
+FBWHY_g_W144,,99,Refused
+FBDEMOCRACY_W144,"Overall, do you think Facebook...",1,Is mostly good for American democracy
+FBDEMOCRACY_W144,,2,Is mostly bad for American democracy
+FBDEMOCRACY_W144,,3,Has no impact on American democracy
+FBDEMOCRACY_W144,,99,Refused
+FBSOURCE_a_W144,News outlets or journalists // Do you ever get news from each of the following on Facebook?,1,"Yes, I get news on Facebook from them"
+FBSOURCE_a_W144,,2,"No, I don’t get news on Facebook from them"
+FBSOURCE_a_W144,,99,Refused
+FBSOURCE_b_W144,"Friends, family, and acquaintances // Do you ever get news from each of the following on Facebook?",1,"Yes, I get news on Facebook from them"
+FBSOURCE_b_W144,,2,"No, I don’t get news on Facebook from them"
+FBSOURCE_b_W144,,99,Refused
+FBSOURCE_c_W144,Influencers or celebrities // Do you ever get news from each of the following on Facebook?,1,"Yes, I get news on Facebook from them"
+FBSOURCE_c_W144,,2,"No, I don’t get news on Facebook from them"
+FBSOURCE_c_W144,,99,Refused
+FBSOURCE_d_W144,Advocacy or non-profit organizations // Do you ever get news from each of the following on Facebook?,1,"Yes, I get news on Facebook from them"
+FBSOURCE_d_W144,,2,"No, I don’t get news on Facebook from them"
+FBSOURCE_d_W144,,99,Refused
+FBSOURCE_e_W144,Other people you don’t know personally // Do you ever get news from each of the following on Facebook?,1,"Yes, I get news on Facebook from them"
+FBSOURCE_e_W144,,2,"No, I don’t get news on Facebook from them"
+FBSOURCE_e_W144,,99,Refused
+FBTYPE_a_W144,Funny posts that reference current events // Do you ever see each of the following on Facebook?,1,"Yes, I see this on Facebook"
+FBTYPE_a_W144,,2,"No, I don’t see this on Facebook"
+FBTYPE_a_W144,,99,Refused
+FBTYPE_b_W144,"News articles, whether posted, reposted, linked, or screenshotted // Do you ever see each of the following on Facebook?",1,"Yes, I see this on Facebook"
+FBTYPE_b_W144,,2,"No, I don’t see this on Facebook"
+FBTYPE_b_W144,,99,Refused
+FBTYPE_c_W144,People expressing opinions about current events // Do you ever see each of the following on Facebook?,1,"Yes, I see this on Facebook"
+FBTYPE_c_W144,,2,"No, I don’t see this on Facebook"
+FBTYPE_c_W144,,99,Refused
+FBTYPE_d_W144,Information about a breaking news event as it’s happening // Do you ever see each of the following on Facebook?,1,"Yes, I see this on Facebook"
+FBTYPE_d_W144,,2,"No, I don’t see this on Facebook"
+FBTYPE_d_W144,,99,Refused
+FBACC_W144,How often do you see news on Facebook that seems inaccurate?,1,Extremely often
+FBACC_W144,,2,Fairly often
+FBACC_W144,,3,Sometimes
+FBACC_W144,,4,Rarely
+FBACC_W144,,5,Never
+FBACC_W144,,99,Refused
+FBINFLUENCE_W144,"How much, if at all, do you think Facebook influences which news stories you see on the platform?",1,A lot
+FBINFLUENCE_W144,,2,Some
+FBINFLUENCE_W144,,3,Not much
+FBINFLUENCE_W144,,4,Not at all
+FBINFLUENCE_W144,,99,Refused
+FBELSE_W144,Would you say the news you get on Facebook is…,1,Mostly news you would have gotten elsewhere if you didn’t use Facebook
+FBELSE_W144,,2,Mostly news you would not have gotten elsewhere
+FBELSE_W144,,3,Both about equally
+FBELSE_W144,,99,Refused
+FBWORN_W144,How often do you feel worn out by the news you see on Facebook?,1,Extremely often
+FBWORN_W144,,2,Fairly often
+FBWORN_W144,,3,Sometimes
+FBWORN_W144,,4,Rarely
+FBWORN_W144,,5,Never
+FBWORN_W144,,99,Refused
+FBHARASS_W144,How much of a problem is people getting harassed on Facebook?,1,Major problem
+FBHARASS_W144,,2,Minor problem
+FBHARASS_W144,,3,Not a problem
+FBHARASS_W144,,99,Refused
+FBSHARE_W144,Do you ever post or share on Facebook?,1,"Yes, I do"
+FBSHARE_W144,,2,"No, I don’t"
+FBSHARE_W144,,99,Refused
+FBSHAREPOL_W144,How much of what you post or share on Facebook is about politics or political issues?,1,All or almost all
+FBSHAREPOL_W144,,2,Most
+FBSHAREPOL_W144,,3,Some
+FBSHAREPOL_W144,,4,A little
+FBSHAREPOL_W144,,5,None at all
+FBSHAREPOL_W144,,99,Refused
+FBWHYSP_a_W144,Your views are welcome there // How much is each of the following a reason you post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYSP_a_W144,,2,Minor reason
+FBWHYSP_a_W144,,3,Not a reason
+FBWHYSP_a_W144,,99,Refused
+FBWHYSP_b_W144,It’s a place you can make a difference // How much is each of the following a reason you post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYSP_b_W144,,2,Minor reason
+FBWHYSP_b_W144,,3,Not a reason
+FBWHYSP_b_W144,,99,Refused
+FBWHYSP_c_W144,Politics belongs there // How much is each of the following a reason you post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYSP_c_W144,,2,Minor reason
+FBWHYSP_c_W144,,3,Not a reason
+FBWHYSP_c_W144,,99,Refused
+FBWHYSP_d_W144,You feel it’s something you should do // How much is each of the following a reason you post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYSP_d_W144,,2,Minor reason
+FBWHYSP_d_W144,,3,Not a reason
+FBWHYSP_d_W144,,99,Refused
+FBWHYNTSP_a_W144,You don’t want to be criticized or harassed there // How much is each of the following a reason you don’t post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYNTSP_a_W144,,2,Minor reason
+FBWHYNTSP_a_W144,,3,Not a reason
+FBWHYNTSP_a_W144,,99,Refused
+FBWHYNTSP_b_W144,Posting there won’t make a difference // How much is each of the following a reason you don’t post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYNTSP_b_W144,,2,Minor reason
+FBWHYNTSP_b_W144,,3,Not a reason
+FBWHYNTSP_b_W144,,99,Refused
+FBWHYNTSP_c_W144,Politics doesn’t belong there // How much is each of the following a reason you don’t post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYNTSP_c_W144,,2,Minor reason
+FBWHYNTSP_c_W144,,3,Not a reason
+FBWHYNTSP_c_W144,,99,Refused
+FBWHYNTSP_d_W144,You don’t care about politics // How much is each of the following a reason you don’t post or share about politics or political issues on Facebook?,1,Major reason
+FBWHYNTSP_d_W144,,2,Minor reason
+FBWHYNTSP_d_W144,,3,Not a reason
+FBWHYNTSP_d_W144,,99,Refused
+FBSEEPOL_W144,How much of what you see on Facebook is about politics or political issues?,1,All or almost all
+FBSEEPOL_W144,,2,Most
+FBSEEPOL_W144,,3,Some
+FBSEEPOL_W144,,4,A little
+FBSEEPOL_W144,,5,None at all
+FBSEEPOL_W144,,99,Refused
+FBPOLIDEO_W144,"Overall, does what you see about politics or political issues on Facebook lean…",1,Mostly conservative
+FBPOLIDEO_W144,,2,Mostly liberal
+FBPOLIDEO_W144,,3,Doesn’t lean either way
+FBPOLIDEO_W144,,4,Not sure
+FBPOLIDEO_W144,,99,Refused
+FBFREEEXP_W144,"On Facebook, do you think people feel free to openly express their political views?",1,Yes
+FBFREEEXP_W144,,2,No
+FBFREEEXP_W144,,99,Refused
+IGWHY_a_W144,To get news // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_a_W144,,2,Minor reason
+IGWHY_a_W144,,3,Not a reason
+IGWHY_a_W144,,99,Refused
+IGWHY_b_W144,To keep up with politics or political issues // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_b_W144,,2,Minor reason
+IGWHY_b_W144,,3,Not a reason
+IGWHY_b_W144,,99,Refused
+IGWHY_c_W144,To keep up with sports or pop culture // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_c_W144,,2,Minor reason
+IGWHY_c_W144,,3,Not a reason
+IGWHY_c_W144,,99,Refused
+IGWHY_d_W144,Because it’s entertaining // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_d_W144,,2,Minor reason
+IGWHY_d_W144,,3,Not a reason
+IGWHY_d_W144,,99,Refused
+IGWHY_e_W144,To keep up with friends and family // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_e_W144,,2,Minor reason
+IGWHY_e_W144,,3,Not a reason
+IGWHY_e_W144,,99,Refused
+IGWHY_f_W144,To connect with others who share your interests // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_f_W144,,2,Minor reason
+IGWHY_f_W144,,3,Not a reason
+IGWHY_f_W144,,99,Refused
+IGWHY_g_W144,To look at product reviews or recommendations // How much is each of the following a reason you use Instagram?,1,Major reason
+IGWHY_g_W144,,2,Minor reason
+IGWHY_g_W144,,3,Not a reason
+IGWHY_g_W144,,99,Refused
+IGDEMOCRACY_W144,"Overall, do you think Instagram...",1,Is mostly good for American democracy
+IGDEMOCRACY_W144,,2,Is mostly bad for American democracy
+IGDEMOCRACY_W144,,3,Has no impact on American democracy
+IGDEMOCRACY_W144,,99,Refused
+IGSOURCE_a_W144,News outlets or journalists // Do you ever get news from each of the following on Instagram?,1,"Yes, I get news on Instagram from them"
+IGSOURCE_a_W144,,2,"No, I don’t get news on Instagram from them"
+IGSOURCE_a_W144,,99,Refused
+IGSOURCE_b_W144,"Friends, family, and acquaintances // Do you ever get news from each of the following on Instagram?",1,"Yes, I get news on Instagram from them"
+IGSOURCE_b_W144,,2,"No, I don’t get news on Instagram from them"
+IGSOURCE_b_W144,,99,Refused
+IGSOURCE_c_W144,Influencers or celebrities // Do you ever get news from each of the following on Instagram?,1,"Yes, I get news on Instagram from them"
+IGSOURCE_c_W144,,2,"No, I don’t get news on Instagram from them"
+IGSOURCE_c_W144,,99,Refused
+IGSOURCE_d_W144,Advocacy or non-profit organizations // Do you ever get news from each of the following on Instagram?,1,"Yes, I get news on Instagram from them"
+IGSOURCE_d_W144,,2,"No, I don’t get news on Instagram from them"
+IGSOURCE_d_W144,,99,Refused
+IGSOURCE_e_W144,Other people you don’t know personally // Do you ever get news from each of the following on Instagram?,1,"Yes, I get news on Instagram from them"
+IGSOURCE_e_W144,,2,"No, I don’t get news on Instagram from them"
+IGSOURCE_e_W144,,99,Refused
+IGTYPE_a_W144,Funny posts that reference current events // Do you ever see each of the following on Instagram?,1,"Yes, I see this on Instagram"
+IGTYPE_a_W144,,2,"No, I don’t see this on Instagram"
+IGTYPE_a_W144,,99,Refused
+IGTYPE_b_W144,"News articles, whether posted, reposted, linked, or screenshotted // Do you ever see each of the following on Instagram?",1,"Yes, I see this on Instagram"
+IGTYPE_b_W144,,2,"No, I don’t see this on Instagram"
+IGTYPE_b_W144,,99,Refused
+IGTYPE_c_W144,People expressing opinions about current events // Do you ever see each of the following on Instagram?,1,"Yes, I see this on Instagram"
+IGTYPE_c_W144,,2,"No, I don’t see this on Instagram"
+IGTYPE_c_W144,,99,Refused
+IGTYPE_d_W144,Information about a breaking news event as it’s happening // Do you ever see each of the following on Instagram?,1,"Yes, I see this on Instagram"
+IGTYPE_d_W144,,2,"No, I don’t see this on Instagram"
+IGTYPE_d_W144,,99,Refused
+IGACC_W144,How often do you see news on Instagram that seems inaccurate?,1,Extremely often
+IGACC_W144,,2,Fairly often
+IGACC_W144,,3,Sometimes
+IGACC_W144,,4,Rarely
+IGACC_W144,,5,Never
+IGACC_W144,,99,Refused
+IGINFLUENCE_W144,"How much, if at all, do you think Instagram influences which news stories you see on the platform?",1,A lot
+IGINFLUENCE_W144,,2,Some
+IGINFLUENCE_W144,,3,Not much
+IGINFLUENCE_W144,,4,Not at all
+IGINFLUENCE_W144,,99,Refused
+IGELSE_W144,Would you say the news you get on Instagram is…,1,Mostly news you would have gotten elsewhere if you didn’t use Instagram
+IGELSE_W144,,2,Mostly news you would not have gotten elsewhere
+IGELSE_W144,,3,Both about equally
+IGELSE_W144,,99,Refused
+IGWORN_W144,How often do you feel worn out by the news you see on Instagram?,1,Extremely often
+IGWORN_W144,,2,Fairly often
+IGWORN_W144,,3,Sometimes
+IGWORN_W144,,4,Rarely
+IGWORN_W144,,5,Never
+IGWORN_W144,,99,Refused
+IGHARASS_W144,How much of a problem is people getting harassed on Instagram?,1,Major problem
+IGHARASS_W144,,2,Minor problem
+IGHARASS_W144,,3,Not a problem
+IGHARASS_W144,,99,Refused
+IGSHARE_W144,Do you ever post or share on Instagram?,1,"Yes, I do"
+IGSHARE_W144,,2,"No, I don’t"
+IGSHARE_W144,,99,Refused
+IGSHAREPOL_W144,How much of what you post or share on Instagram is about politics or political issues?,1,All or almost all
+IGSHAREPOL_W144,,2,Most
+IGSHAREPOL_W144,,3,Some
+IGSHAREPOL_W144,,4,A little
+IGSHAREPOL_W144,,5,None at all
+IGSHAREPOL_W144,,99,Refused
+IGWHYSP_a_W144,Your views are welcome there // How much is each of the following a reason you post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYSP_a_W144,,2,Minor reason
+IGWHYSP_a_W144,,3,Not a reason
+IGWHYSP_a_W144,,99,Refused
+IGWHYSP_b_W144,It’s a place you can make a difference // How much is each of the following a reason you post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYSP_b_W144,,2,Minor reason
+IGWHYSP_b_W144,,3,Not a reason
+IGWHYSP_b_W144,,99,Refused
+IGWHYSP_c_W144,Politics belongs there // How much is each of the following a reason you post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYSP_c_W144,,2,Minor reason
+IGWHYSP_c_W144,,3,Not a reason
+IGWHYSP_c_W144,,99,Refused
+IGWHYSP_d_W144,You feel it’s something you should do // How much is each of the following a reason you post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYSP_d_W144,,2,Minor reason
+IGWHYSP_d_W144,,3,Not a reason
+IGWHYSP_d_W144,,99,Refused
+IGWHYNTSP_a_W144,You don’t want to be criticized or harassed there // How much is each of the following a reason you don’t post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYNTSP_a_W144,,2,Minor reason
+IGWHYNTSP_a_W144,,3,Not a reason
+IGWHYNTSP_a_W144,,99,Refused
+IGWHYNTSP_b_W144,Posting there won’t make a difference // How much is each of the following a reason you don’t post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYNTSP_b_W144,,2,Minor reason
+IGWHYNTSP_b_W144,,3,Not a reason
+IGWHYNTSP_b_W144,,99,Refused
+IGWHYNTSP_c_W144,Politics doesn’t belong there // How much is each of the following a reason you don’t post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYNTSP_c_W144,,2,Minor reason
+IGWHYNTSP_c_W144,,3,Not a reason
+IGWHYNTSP_c_W144,,99,Refused
+IGWHYNTSP_d_W144,You don’t care about politics // How much is each of the following a reason you don’t post or share about politics or political issues on Instagram?,1,Major reason
+IGWHYNTSP_d_W144,,2,Minor reason
+IGWHYNTSP_d_W144,,3,Not a reason
+IGWHYNTSP_d_W144,,99,Refused
+IGSEEPOL_W144,How much of what you see on Instagram is about politics or political issues?,1,All or almost all
+IGSEEPOL_W144,,2,Most
+IGSEEPOL_W144,,3,Some
+IGSEEPOL_W144,,4,A little
+IGSEEPOL_W144,,5,None at all
+IGSEEPOL_W144,,99,Refused
+IGPOLIDEO_W144,"Overall, does what you see about politics or political issues on Instagram lean…",1,Mostly conservative
+IGPOLIDEO_W144,,2,Mostly liberal
+IGPOLIDEO_W144,,3,Doesn’t lean either way
+IGPOLIDEO_W144,,4,Not sure
+IGPOLIDEO_W144,,99,Refused
+IGFREEEXP_W144,"On Instagram, do you think people feel free to openly express their political views?",1,Yes
+IGFREEEXP_W144,,2,No
+IGFREEEXP_W144,,99,Refused
+XTWHY_a_W144,To get news // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_a_W144,,2,Minor reason
+XTWHY_a_W144,,3,Not a reason
+XTWHY_a_W144,,99,Refused
+XTWHY_b_W144,To keep up with politics or political issues // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_b_W144,,2,Minor reason
+XTWHY_b_W144,,3,Not a reason
+XTWHY_b_W144,,99,Refused
+XTWHY_c_W144,To keep up with sports or pop culture // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_c_W144,,2,Minor reason
+XTWHY_c_W144,,3,Not a reason
+XTWHY_c_W144,,99,Refused
+XTWHY_d_W144,Because it’s entertaining // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_d_W144,,2,Minor reason
+XTWHY_d_W144,,3,Not a reason
+XTWHY_d_W144,,99,Refused
+XTWHY_e_W144,To keep up with friends and family // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_e_W144,,2,Minor reason
+XTWHY_e_W144,,3,Not a reason
+XTWHY_e_W144,,99,Refused
+XTWHY_f_W144,To connect with others who share your interests // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_f_W144,,2,Minor reason
+XTWHY_f_W144,,3,Not a reason
+XTWHY_f_W144,,99,Refused
+XTWHY_g_W144,To look at product reviews or recommendations // How much is each of the following a reason you use X (formerly Twitter)?,1,Major reason
+XTWHY_g_W144,,2,Minor reason
+XTWHY_g_W144,,3,Not a reason
+XTWHY_g_W144,,99,Refused
+XTDEMOCRACY_W144,"Overall, do you think X (formerly Twitter)...",1,Is mostly good for American democracy
+XTDEMOCRACY_W144,,2,Is mostly bad for American democracy
+XTDEMOCRACY_W144,,3,Has no impact on American democracy
+XTDEMOCRACY_W144,,99,Refused
+XTSOURCE_a_W144,News outlets or journalists // Do you ever get news from each of the following on X (formerly Twitter)?,1,"Yes, I get news on X (formerly Twitter) from them"
+XTSOURCE_a_W144,,2,"No, I don’t get news on X (formerly Twitter) from them"
+XTSOURCE_a_W144,,99,Refused
+XTSOURCE_b_W144,"Friends, family, and acquaintances // Do you ever get news from each of the following on X (formerly Twitter)?",1,"Yes, I get news on X (formerly Twitter) from them"
+XTSOURCE_b_W144,,2,"No, I don’t get news on X (formerly Twitter) from them"
+XTSOURCE_b_W144,,99,Refused
+XTSOURCE_c_W144,Influencers or celebrities // Do you ever get news from each of the following on X (formerly Twitter)?,1,"Yes, I get news on X (formerly Twitter) from them"
+XTSOURCE_c_W144,,2,"No, I don’t get news on X (formerly Twitter) from them"
+XTSOURCE_c_W144,,99,Refused
+XTSOURCE_d_W144,Advocacy or non-profit organizations // Do you ever get news from each of the following on X (formerly Twitter)?,1,"Yes, I get news on X (formerly Twitter) from them"
+XTSOURCE_d_W144,,2,"No, I don’t get news on X (formerly Twitter) from them"
+XTSOURCE_d_W144,,99,Refused
+XTSOURCE_e_W144,Other people you don’t know personally // Do you ever get news from each of the following on X (formerly Twitter)?,1,"Yes, I get news on X (formerly Twitter) from them"
+XTSOURCE_e_W144,,2,"No, I don’t get news on X (formerly Twitter) from them"
+XTSOURCE_e_W144,,99,Refused
+XTTYPE_a_W144,Funny posts that reference current events // Do you ever see each of the following on X (formerly Twitter)?,1,"Yes, I see this on X (formerly Twitter)"
+XTTYPE_a_W144,,2,"No, I don’t see this on X (formerly Twitter)"
+XTTYPE_a_W144,,99,Refused
+XTTYPE_b_W144,"News articles, whether posted, reposted, linked, or screenshotted // Do you ever see each of the following on X (formerly Twitter)?",1,"Yes, I see this on X (formerly Twitter)"
+XTTYPE_b_W144,,2,"No, I don’t see this on X (formerly Twitter)"
+XTTYPE_b_W144,,99,Refused
+XTTYPE_c_W144,People expressing opinions about current events // Do you ever see each of the following on X (formerly Twitter)?,1,"Yes, I see this on X (formerly Twitter)"
+XTTYPE_c_W144,,2,"No, I don’t see this on X (formerly Twitter)"
+XTTYPE_c_W144,,99,Refused
+XTTYPE_d_W144,Information about a breaking news event as it’s happening // Do you ever see each of the following on X (formerly Twitter)?,1,"Yes, I see this on X (formerly Twitter)"
+XTTYPE_d_W144,,2,"No, I don’t see this on X (formerly Twitter)"
+XTTYPE_d_W144,,99,Refused
+XTACC_W144,How often do you see news on X (formerly Twitter) that seems inaccurate?,1,Extremely often
+XTACC_W144,,2,Fairly often
+XTACC_W144,,3,Sometimes
+XTACC_W144,,4,Rarely
+XTACC_W144,,5,Never
+XTACC_W144,,99,Refused
+XTINFLUENCE_W144,"How much, if at all, do you think X (formerly Twitter) influences which news stories you see on the platform?",1,A lot
+XTINFLUENCE_W144,,2,Some
+XTINFLUENCE_W144,,3,Not much
+XTINFLUENCE_W144,,4,Not at all
+XTINFLUENCE_W144,,99,Refused
+XTELSE_W144,Would you say the news you get on X (formerly Twitter) is…,1,Mostly news you would have gotten elsewhere if you didn’t use X (formerly Twitter)
+XTELSE_W144,,2,Mostly news you would not have gotten elsewhere
+XTELSE_W144,,3,Both about equally
+XTELSE_W144,,99,Refused
+XTWORN_W144,How often do you feel worn out by the news you see on X (formerly Twitter)?,1,Extremely often
+XTWORN_W144,,2,Fairly often
+XTWORN_W144,,3,Sometimes
+XTWORN_W144,,4,Rarely
+XTWORN_W144,,5,Never
+XTWORN_W144,,99,Refused
+XTHARASS_W144,How much of a problem is people getting harassed on X (formerly Twitter)?,1,Major problem
+XTHARASS_W144,,2,Minor problem
+XTHARASS_W144,,3,Not a problem
+XTHARASS_W144,,99,Refused
+XTSHARE_W144,Do you ever post or share on X (formerly Twitter)?,1,"Yes, I do"
+XTSHARE_W144,,2,"No, I don’t"
+XTSHARE_W144,,99,Refused
+XTSHAREPOL_W144,How much of what you post or share on X (formerly Twitter) is about politics or political issues?,1,All or almost all
+XTSHAREPOL_W144,,2,Most
+XTSHAREPOL_W144,,3,Some
+XTSHAREPOL_W144,,4,A little
+XTSHAREPOL_W144,,5,None at all
+XTSHAREPOL_W144,,99,Refused
+XTWHYSP_a_W144,Your views are welcome there // How much is each of the following a reason you post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYSP_a_W144,,2,Minor reason
+XTWHYSP_a_W144,,3,Not a reason
+XTWHYSP_a_W144,,99,Refused
+XTWHYSP_b_W144,It’s a place you can make a difference // How much is each of the following a reason you post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYSP_b_W144,,2,Minor reason
+XTWHYSP_b_W144,,3,Not a reason
+XTWHYSP_b_W144,,99,Refused
+XTWHYSP_c_W144,Politics belongs there // How much is each of the following a reason you post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYSP_c_W144,,2,Minor reason
+XTWHYSP_c_W144,,3,Not a reason
+XTWHYSP_c_W144,,99,Refused
+XTWHYSP_d_W144,You feel it’s something you should do // How much is each of the following a reason you post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYSP_d_W144,,2,Minor reason
+XTWHYSP_d_W144,,3,Not a reason
+XTWHYSP_d_W144,,99,Refused
+XTWHYNTSP_a_W144,You don’t want to be criticized or harassed there // How much is each of the following a reason you don’t post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYNTSP_a_W144,,2,Minor reason
+XTWHYNTSP_a_W144,,3,Not a reason
+XTWHYNTSP_a_W144,,99,Refused
+XTWHYNTSP_b_W144,Posting there won’t make a difference // How much is each of the following a reason you don’t post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYNTSP_b_W144,,2,Minor reason
+XTWHYNTSP_b_W144,,3,Not a reason
+XTWHYNTSP_b_W144,,99,Refused
+XTWHYNTSP_c_W144,Politics doesn’t belong there // How much is each of the following a reason you don’t post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYNTSP_c_W144,,2,Minor reason
+XTWHYNTSP_c_W144,,3,Not a reason
+XTWHYNTSP_c_W144,,99,Refused
+XTWHYNTSP_d_W144,You don’t care about politics // How much is each of the following a reason you don’t post or share about politics or political issues on X (formerly Twitter)?,1,Major reason
+XTWHYNTSP_d_W144,,2,Minor reason
+XTWHYNTSP_d_W144,,3,Not a reason
+XTWHYNTSP_d_W144,,99,Refused
+XTSEEPOL_W144,How much of what you see on X (formerly Twitter) is about politics or political issues?,1,All or almost all
+XTSEEPOL_W144,,2,Most
+XTSEEPOL_W144,,3,Some
+XTSEEPOL_W144,,4,A little
+XTSEEPOL_W144,,5,None at all
+XTSEEPOL_W144,,99,Refused
+XTPOLIDEO_W144,"Overall, does what you see about politics or political issues on X (formerly Twitter) lean…",1,Mostly conservative
+XTPOLIDEO_W144,,2,Mostly liberal
+XTPOLIDEO_W144,,3,Doesn’t lean either way
+XTPOLIDEO_W144,,4,Not sure
+XTPOLIDEO_W144,,99,Refused
+XTFREEEXP_W144,"On X (formerly Twitter), do you think people feel free to openly express their political views?",1,Yes
+XTFREEEXP_W144,,2,No
+XTFREEEXP_W144,,99,Refused
+TTWHY_a_W144,To get news // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_a_W144,,2,Minor reason
+TTWHY_a_W144,,3,Not a reason
+TTWHY_a_W144,,99,Refused
+TTWHY_b_W144,To keep up with politics or political issues // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_b_W144,,2,Minor reason
+TTWHY_b_W144,,3,Not a reason
+TTWHY_b_W144,,99,Refused
+TTWHY_c_W144,To keep up with sports or pop culture // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_c_W144,,2,Minor reason
+TTWHY_c_W144,,3,Not a reason
+TTWHY_c_W144,,99,Refused
+TTWHY_d_W144,Because it’s entertaining // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_d_W144,,2,Minor reason
+TTWHY_d_W144,,3,Not a reason
+TTWHY_d_W144,,99,Refused
+TTWHY_e_W144,To keep up with friends and family // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_e_W144,,2,Minor reason
+TTWHY_e_W144,,3,Not a reason
+TTWHY_e_W144,,99,Refused
+TTWHY_f_W144,To connect with others who share your interests // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_f_W144,,2,Minor reason
+TTWHY_f_W144,,3,Not a reason
+TTWHY_f_W144,,99,Refused
+TTWHY_g_W144,To look at product reviews or recommendations // How much is each of the following a reason you use TikTok?,1,Major reason
+TTWHY_g_W144,,2,Minor reason
+TTWHY_g_W144,,3,Not a reason
+TTWHY_g_W144,,99,Refused
+TTDEMOCRACY_W144,"Overall, do you think TikTok...",1,Is mostly good for American democracy
+TTDEMOCRACY_W144,,2,Is mostly bad for American democracy
+TTDEMOCRACY_W144,,3,Has no impact on American democracy
+TTDEMOCRACY_W144,,99,Refused
+TTSOURCE_a_W144,News outlets or journalists // Do you ever get news from each of the following on TikTok?,1,"Yes, I get news on TikTok from them"
+TTSOURCE_a_W144,,2,"No, I don’t get news on TikTok from them"
+TTSOURCE_a_W144,,99,Refused
+TTSOURCE_b_W144,"Friends, family, and acquaintances // Do you ever get news from each of the following on TikTok?",1,"Yes, I get news on TikTok from them"
+TTSOURCE_b_W144,,2,"No, I don’t get news on TikTok from them"
+TTSOURCE_b_W144,,99,Refused
+TTSOURCE_c_W144,Influencers or celebrities // Do you ever get news from each of the following on TikTok?,1,"Yes, I get news on TikTok from them"
+TTSOURCE_c_W144,,2,"No, I don’t get news on TikTok from them"
+TTSOURCE_c_W144,,99,Refused
+TTSOURCE_d_W144,Advocacy or non-profit organizations // Do you ever get news from each of the following on TikTok?,1,"Yes, I get news on TikTok from them"
+TTSOURCE_d_W144,,2,"No, I don’t get news on TikTok from them"
+TTSOURCE_d_W144,,99,Refused
+TTSOURCE_e_W144,Other people you don’t know personally // Do you ever get news from each of the following on TikTok?,1,"Yes, I get news on TikTok from them"
+TTSOURCE_e_W144,,2,"No, I don’t get news on TikTok from them"
+TTSOURCE_e_W144,,99,Refused
+TTTYPE_a_W144,Funny posts that reference current events // Do you ever see each of the following on TikTok?,1,"Yes, I see this on TikTok"
+TTTYPE_a_W144,,2,"No, I don’t see this on TikTok"
+TTTYPE_a_W144,,99,Refused
+TTTYPE_b_W144,"News articles, whether posted, reposted, linked, or screenshotted // Do you ever see each of the following on TikTok?",1,"Yes, I see this on TikTok"
+TTTYPE_b_W144,,2,"No, I don’t see this on TikTok"
+TTTYPE_b_W144,,99,Refused
+TTTYPE_c_W144,People expressing opinions about current events // Do you ever see each of the following on TikTok?,1,"Yes, I see this on TikTok"
+TTTYPE_c_W144,,2,"No, I don’t see this on TikTok"
+TTTYPE_c_W144,,99,Refused
+TTTYPE_d_W144,Information about a breaking news event as it’s happening // Do you ever see each of the following on TikTok?,1,"Yes, I see this on TikTok"
+TTTYPE_d_W144,,2,"No, I don’t see this on TikTok"
+TTTYPE_d_W144,,99,Refused
+TTACC_W144,How often do you see news on TikTok that seems inaccurate?,1,Extremely often
+TTACC_W144,,2,Fairly often
+TTACC_W144,,3,Sometimes
+TTACC_W144,,4,Rarely
+TTACC_W144,,5,Never
+TTACC_W144,,99,Refused
+TTINFLUENCE_W144,"How much, if at all, do you think TikTok influences which news stories you see on the platform?",1,A lot
+TTINFLUENCE_W144,,2,Some
+TTINFLUENCE_W144,,3,Not much
+TTINFLUENCE_W144,,4,Not at all
+TTINFLUENCE_W144,,99,Refused
+TTELSE_W144,Would you say the news you get on TikTok is…,1,Mostly news you would have gotten elsewhere if you didn’t use TikTok
+TTELSE_W144,,2,Mostly news you would not have gotten elsewhere
+TTELSE_W144,,3,Both about equally
+TTELSE_W144,,99,Refused
+TTWORN_W144,How often do you feel worn out by the news you see on TikTok?,1,Extremely often
+TTWORN_W144,,2,Fairly often
+TTWORN_W144,,3,Sometimes
+TTWORN_W144,,4,Rarely
+TTWORN_W144,,5,Never
+TTWORN_W144,,99,Refused
+TTHARASS_W144,How much of a problem is people getting harassed on TikTok?,1,Major problem
+TTHARASS_W144,,2,Minor problem
+TTHARASS_W144,,3,Not a problem
+TTHARASS_W144,,99,Refused
+TTSHARE_W144,Do you ever post or share on TikTok?,1,"Yes, I do"
+TTSHARE_W144,,2,"No, I don’t"
+TTSHARE_W144,,99,Refused
+TTSHAREPOL_W144,How much of what you post or share on TikTok is about politics or political issues?,1,All or almost all
+TTSHAREPOL_W144,,2,Most
+TTSHAREPOL_W144,,3,Some
+TTSHAREPOL_W144,,4,A little
+TTSHAREPOL_W144,,5,None at all
+TTSHAREPOL_W144,,99,Refused
+TTWHYSP_a_W144,Your views are welcome there // How much is each of the following a reason you post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYSP_a_W144,,2,Minor reason
+TTWHYSP_a_W144,,3,Not a reason
+TTWHYSP_a_W144,,99,Refused
+TTWHYSP_b_W144,It’s a place you can make a difference // How much is each of the following a reason you post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYSP_b_W144,,2,Minor reason
+TTWHYSP_b_W144,,3,Not a reason
+TTWHYSP_b_W144,,99,Refused
+TTWHYSP_c_W144,Politics belongs there // How much is each of the following a reason you post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYSP_c_W144,,2,Minor reason
+TTWHYSP_c_W144,,3,Not a reason
+TTWHYSP_c_W144,,99,Refused
+TTWHYSP_d_W144,You feel it’s something you should do // How much is each of the following a reason you post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYSP_d_W144,,2,Minor reason
+TTWHYSP_d_W144,,3,Not a reason
+TTWHYSP_d_W144,,99,Refused
+TTWHYNTSP_a_W144,You don’t want to be criticized or harassed there // How much is each of the following a reason you don’t post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYNTSP_a_W144,,2,Minor reason
+TTWHYNTSP_a_W144,,3,Not a reason
+TTWHYNTSP_a_W144,,99,Refused
+TTWHYNTSP_b_W144,Posting there won’t make a difference // How much is each of the following a reason you don’t post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYNTSP_b_W144,,2,Minor reason
+TTWHYNTSP_b_W144,,3,Not a reason
+TTWHYNTSP_b_W144,,99,Refused
+TTWHYNTSP_c_W144,Politics doesn’t belong there // How much is each of the following a reason you don’t post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYNTSP_c_W144,,2,Minor reason
+TTWHYNTSP_c_W144,,3,Not a reason
+TTWHYNTSP_c_W144,,99,Refused
+TTWHYNTSP_d_W144,You don’t care about politics // How much is each of the following a reason you don’t post or share about politics or political issues on TikTok?,1,Major reason
+TTWHYNTSP_d_W144,,2,Minor reason
+TTWHYNTSP_d_W144,,3,Not a reason
+TTWHYNTSP_d_W144,,99,Refused
+TTSEEPOL_W144,How much of what you see on TikTok is about politics or political issues?,1,All or almost all
+TTSEEPOL_W144,,2,Most
+TTSEEPOL_W144,,3,Some
+TTSEEPOL_W144,,4,A little
+TTSEEPOL_W144,,5,None at all
+TTSEEPOL_W144,,99,Refused
+TTPOLIDEO_W144,"Overall, does what you see about politics or political issues on TikTok lean…",1,Mostly conservative
+TTPOLIDEO_W144,,2,Mostly liberal
+TTPOLIDEO_W144,,3,Doesn’t lean either way
+TTPOLIDEO_W144,,4,Not sure
+TTPOLIDEO_W144,,99,Refused
+TTFREEEXP_W144,"On TikTok, do you think people feel free to openly express their political views?",1,Yes
+TTFREEEXP_W144,,2,No
+TTFREEEXP_W144,,99,Refused
+F_METRO,Metropolitan area indicator,1,Metropolitan
+F_METRO,,2,Non-metropolitan
+F_CREGION,Census region,1,Northeast
+F_CREGION,,2,Midwest
+F_CREGION,,3,South
+F_CREGION,,4,West
+F_CDIVISION,Census division,1,New England
+F_CDIVISION,,2,Middle Atlantic
+F_CDIVISION,,3,East North Central
+F_CDIVISION,,4,West North Central
+F_CDIVISION,,5,South Atlantic
+F_CDIVISION,,6,East South Central
+F_CDIVISION,,7,West South Central
+F_CDIVISION,,8,Mountain
+F_CDIVISION,,9,Pacific
+F_USR_SELFID," Self-identified Urban, Suburban, Rural (USR)",1,Urban
+F_USR_SELFID,,2,Suburban
+F_USR_SELFID,,3,Rural
+F_USR_SELFID,,99,Refused
+F_AGECAT,Age category,1,18-29
+F_AGECAT,,2,30-49
+F_AGECAT,,3,50-64
+F_AGECAT,,4,65+
+F_AGECAT,,99,Refused
+F_GENDER,Gender,1,A man
+F_GENDER,,2,A woman
+F_GENDER,,3,In some other way
+F_GENDER,,99,Refused
+F_EDUCCAT,Education level category,1,College graduate+
+F_EDUCCAT,,2,Some College
+F_EDUCCAT,,3,H.S. graduate or less
+F_EDUCCAT,,99,Refused
+F_EDUCCAT2,Education level category 2,1,Less than high school
+F_EDUCCAT2,,2,High school graduate
+F_EDUCCAT2,,3,"Some college, no degree"
+F_EDUCCAT2,,4,Associate degree
+F_EDUCCAT2,,5,College graduate/some post grad
+F_EDUCCAT2,,6,Postgraduate
+F_EDUCCAT2,,99,Refused
+F_HISP,Hispanic identification,1,Yes
+F_HISP,,2,No
+F_HISP,,99,Refused
+F_HISP_ORIGIN,Hispanic origin,1,Mexican
+F_HISP_ORIGIN,,2,Puerto Rican
+F_HISP_ORIGIN,,3,Cuban
+F_HISP_ORIGIN,,4,Dominican
+F_HISP_ORIGIN,,5,Salvadoran
+F_HISP_ORIGIN,,6,Spanish
+F_HISP_ORIGIN,,7,Other Central American
+F_HISP_ORIGIN,,8,Other South American
+F_HISP_ORIGIN,,97,Other country
+F_HISP_ORIGIN,,99,Refused
+F_YEARSINUS_RECODE,Years lived in the United States (excluding Puerto Rico or other U.S. territories) - 4 category,1,Born in US (not including unincorporated territories)
+F_YEARSINUS_RECODE,,2,0-10 years
+F_YEARSINUS_RECODE,,3,11-20 years
+F_YEARSINUS_RECODE,,4,21+ years
+F_YEARSINUS_RECODE,,99,DK/Ref
+F_RACECMB,Combining Race,1,White
+F_RACECMB,,2,Black or African-American
+F_RACECMB,,3,Asian or Asian-American
+F_RACECMB,,4,Mixed Race
+F_RACECMB,,5,Or some other race
+F_RACECMB,,99,Refused
+F_RACETHNMOD,Race-Ethnicity,1,White non-Hispanic
+F_RACETHNMOD,,2,Black non-Hispanic
+F_RACETHNMOD,,3,Hispanic
+F_RACETHNMOD,,4,Other
+F_RACETHNMOD,,5,Asian non-Hispanic
+F_RACETHNMOD,,99,Refused
+F_BIRTHPLACE,Birthplace,1,"U.S. – 50 states, District of Columbia"
+F_BIRTHPLACE,,2,U.S. – Puerto Rico
+F_BIRTHPLACE,,3,U.S. – other territory
+F_BIRTHPLACE,,4,Another country
+F_BIRTHPLACE,,99,Refused
+F_MARITAL,Marital status,1,Married
+F_MARITAL,,2,Living with a partner
+F_MARITAL,,3,Divorced
+F_MARITAL,,4,Separated
+F_MARITAL,,5,Widowed
+F_MARITAL,,6,Never been married
+F_MARITAL,,99,Refused
+F_RELIG,Religion,1,Protestant
+F_RELIG,,2,Roman Catholic
+F_RELIG,,3,Mormon (Church of Jesus Christ of Latter-day Saints or LDS)
+F_RELIG,,4,"Orthodox (such as Greek, Russian, or some other Orthodox church)"
+F_RELIG,,5,Jewish
+F_RELIG,,6,Muslim
+F_RELIG,,7,Buddhist
+F_RELIG,,8,Hindu
+F_RELIG,,9,Atheist
+F_RELIG,,10,Agnostic
+F_RELIG,,11,Other
+F_RELIG,,12,Nothing in particular
+F_RELIG,,99,Refused
+F_BORN,Born-again or evangelical Christian,1,"Yes, born-again or evangelical Christian"
+F_BORN,,2,"No, not born-again or evangelical Christian"
+F_BORN,,99,Refused
+F_RELIGCAT1,Condensed 4-way religion variable,1,Protestant
+F_RELIGCAT1,,2,Catholic
+F_RELIGCAT1,,3,Unaffiliated
+F_RELIGCAT1,,4,Other
+F_RELIGCAT1,,99,Refused
+F_ATTENDPER,Religious service attendance in person,1,More than once a week
+F_ATTENDPER,,2,Once a week
+F_ATTENDPER,,3,Once or twice a month
+F_ATTENDPER,,4,A few times a year
+F_ATTENDPER,,5,Seldom
+F_ATTENDPER,,6,Never
+F_ATTENDPER,,99,Refused
+F_PARTY_FINAL,Party,1,Republican
+F_PARTY_FINAL,,2,Democrat
+F_PARTY_FINAL,,3,Independent
+F_PARTY_FINAL,,4,Something else
+F_PARTY_FINAL,,99,Refused
+F_PARTYLN_FINAL,Party lean,1,The Republican Party
+F_PARTYLN_FINAL,,2,The Democratic Party
+F_PARTYLN_FINAL,,99,Refused
+F_PARTYSUM_FINAL,Party summary,1,Rep/Lean Rep
+F_PARTYSUM_FINAL,,2,Dem/Lean Dem
+F_PARTYSUM_FINAL,,9,DK/Refused/No lean
+F_PARTYSUMIDEO_FINAL,Combining ideology and party identification,1,Conservative Rep/Lean
+F_PARTYSUMIDEO_FINAL,,2,Moderate/Liberal Rep/Lean
+F_PARTYSUMIDEO_FINAL,,3,Moderate/Conservative Dem/Lean
+F_PARTYSUMIDEO_FINAL,,4,Liberal Dem/Lean
+F_PARTYSUMIDEO_FINAL,,9,Refused either F_IDEO or F_PARTYSUM_FINAL
+F_REG,REG.   Voter registration,1,You are ABSOLUTELY CERTAIN that you are registered to vote at your current address
+F_REG,,2,"You are PROBABLY registered, but there is a chance your registration has lapsed"
+F_REG,,3,You are NOT registered to vote at your current address/Refused/Missing
+F_INC_SDT1,Family income,1,"Less than $30,000"
+F_INC_SDT1,,2,"$30,000 to less than $40,000"
+F_INC_SDT1,,3,"$40,000 to less than $50,000"
+F_INC_SDT1,,4,"$50,000 to less than $60,000"
+F_INC_SDT1,,5,"$60,000 to less than $70,000"
+F_INC_SDT1,,6,"$70,000 to less than $80,000"
+F_INC_SDT1,,7,"$80,000 to less than $90,000"
+F_INC_SDT1,,8,"$90,000 to less than $100,000"
+F_INC_SDT1,,9,"$100,000 or more"
+F_INC_SDT1,,99,Refused
+F_IDEO,Ideology,1,Very conservative
+F_IDEO,,2,Conservative
+F_IDEO,,3,Moderate
+F_IDEO,,4,Liberal
+F_IDEO,,5,Very liberal
+F_IDEO,,99,Refused
+F_INTFREQ,Frequency of internet use,1,Almost constantly
+F_INTFREQ,,2,Several times a day
+F_INTFREQ,,3,About once a day
+F_INTFREQ,,4,Several times a week
+F_INTFREQ,,5,Less often
+F_INTFREQ,,99,Refused
+F_VOLSUM,Volunteerism status,1,Yes
+F_VOLSUM,,2,No
+F_VOLSUM,,99,Refused
+F_INC_TIER2,Income tier 3-way,1,Lower income
+F_INC_TIER2,,2,Middle income
+F_INC_TIER2,,3,Upper income
+F_INC_TIER2,,99,Refused
+WEIGHT_W144,Wave 144 weight,0.06003588,Min. Val.
+WEIGHT_W144,,10.42298,Max. Val
+WEIGHT_W144_FB,Wave 144 weight for Block 1 (Facebook) questions,0.06003588,Min. Val.
+WEIGHT_W144_FB,,20.68234,Max. Val
+WEIGHT_W144_IG,Wave 144 weight for Block 2 (Instagram) questions,0.06003588,Min. Val.
+WEIGHT_W144_IG,,20.68234,Max. Val
+WEIGHT_W144_XT,Wave 144 weight for Block 3 (X/Twitter) questions,0.06003588,Min. Val.
+WEIGHT_W144_XT,,10.34117,Max. Val
+WEIGHT_W144_TT,Wave 144 weight for Block 4 (TikTok) questions,0.06003588,Min. Val.
+WEIGHT_W144_TT,,10.42298,Max. Val
